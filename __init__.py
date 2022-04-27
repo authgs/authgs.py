@@ -1,5 +1,4 @@
-from .authgs import *
+from .sdk import *
 
-Version = "0.4"
-Author = "AuthGS"
-Source = "https://github.com/authgs/authgs.py"
+VERSION = "1.1.4"
+USER_AGENT = f"AuthGS Python SDK v{VERSION}"
